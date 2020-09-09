@@ -1,6 +1,6 @@
 # Shorting URL
 
-TODO: Write a project description
+Shorten the url using unique id.
 
 ## Installation
 
