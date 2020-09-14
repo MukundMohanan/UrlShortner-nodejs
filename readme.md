@@ -19,7 +19,7 @@ Clone it and install all dependencies
 6. exit - to exit mongoDB
 
 # Remove LOCK for MONGODB
-* Delete mongolock file in C:\data\db after exit in mongoDB.
+* Delete "mongod.lock" file in C:\data\db after exit in mongoDB.
 
 ## ENV
 * add this in .env file "MONGO_URI=localhost/redirect"
